@@ -1,12 +1,15 @@
 # README FILE
-## Subtitulo
-**negrita**
+## Subtítulo
+**Negrita**
 - Lista
 - Elmeneto
 - Otro Elemento
 
 este es el readme
 
-1. lista numerica
-2. item
+1. Lista numerica
+2. Item
+3. Tercer item
 
+### About me
+I don't really make sense and that's OK.
