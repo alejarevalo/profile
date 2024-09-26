@@ -13,3 +13,9 @@ este es el readme
 
 ### About me
 I don't really make sense and that's OK.
+
+### Languages
+- Spanish
+- French
+- English
+  
