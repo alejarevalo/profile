@@ -1,28 +1,14 @@
-# README FILE
-## Subtítulo
-**Negrita**
-- Lista
-- Elmeneto
-- Otro Elemento
+## About me
+I'm a language teacher who enjoys technology and computers. I am currently learning to code with Java.  I am interested in creating educational content and tools to help students learn more effectively.
 
-este es el readme
 
-1. Lista numerica
-2. Item
-3. Tercer item
-
-### About me
-I don't really make sense and that's OK.
-
-<<<<<<< HEAD
-### Languages
-- Spanish
-- French
-- English
-  
-=======
 ### Hobbies
 1. Reading
 2. Football
 3. Playing guitar
->>>>>>> 61631c7a6200c2c7a00fb7e74368603a3baea89f
+
+### Languages
+- Spanish
+- French
+- English 
+
